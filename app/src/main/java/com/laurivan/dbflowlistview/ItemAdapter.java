@@ -1,4 +1,4 @@
-package com.laurivan.retrofitobservable;
+package com.laurivan.dbflowlistview;
 
 import android.content.Context;
 import android.graphics.Typeface;

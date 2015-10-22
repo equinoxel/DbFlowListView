@@ -1,4 +1,4 @@
-package com.laurivan.retrofitobservable;
+package com.laurivan.dbflowlistview;
 
 import com.raizlabs.android.dbflow.annotation.Column;
 import com.raizlabs.android.dbflow.annotation.PrimaryKey;
