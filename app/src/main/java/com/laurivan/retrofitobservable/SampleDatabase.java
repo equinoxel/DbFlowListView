@@ -4,7 +4,7 @@ import com.raizlabs.android.dbflow.annotation.Database;
 
 /**
  * Sample database
- *
+ * <p/>
  * Created by ivanlla on 22/10/2015.
  */
 @Database(name = SampleDatabase.NAME, version = SampleDatabase.VERSION)

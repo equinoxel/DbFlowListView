@@ -12,7 +12,7 @@ import com.raizlabs.android.dbflow.list.FlowCursorList;
 
 /**
  * Adapter for the listview
- *
+ * <p/>
  * Created by ivanlla on 22/10/2015.
  */
 public class ItemAdapter extends BaseAdapter {

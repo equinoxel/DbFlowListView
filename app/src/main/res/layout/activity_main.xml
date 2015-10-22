@@ -11,13 +11,13 @@
     tools:context=".MainActivity">
 
     <LinearLayout
+        android:id="@+id/buttonsLayout"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
         android:layout_alignParentEnd="false"
-        android:orientation="horizontal"
-        android:id="@+id/buttonsLayout"
 
-        android:layout_alignParentBottom="true">
+        android:orientation="horizontal">
 
         <Button
             android:id="@+id/addButton"
@@ -33,6 +33,7 @@
             android:layout_gravity="center_horizontal"
             android:text="Remove first"/>
     </LinearLayout>
+
     <ListView
         android:id="@+id/listView"
         android:layout_width="match_parent"
